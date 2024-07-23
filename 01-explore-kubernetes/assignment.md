@@ -2,7 +2,7 @@
 slug: explore-kubernetes
 id: 9xh9vwywboyy
 type: challenge
-title: Explore Kubernetes v1
+title: Explore Kubernetes v1 conflicts
 teaser: Explore Kubernetes
 notes:
 - type: text
