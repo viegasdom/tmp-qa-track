@@ -18,6 +18,7 @@ owner: acme
 developers:
 - bruno@instruqt.com
 instructors: []
+maintenance: true
 show_timer: true
 idle_timeout: 0
 timelimit: 0
