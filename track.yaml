@@ -16,9 +16,8 @@ icon: https://cdn.instruqt.com/assets/templates/kubernetes.png
 tags: []
 owner: acme
 developers:
-  - bruno@instruqt.com
+- bruno@instruqt.com
 instructors: []
-maintenance: true
 show_timer: true
 idle_timeout: 0
 timelimit: 0

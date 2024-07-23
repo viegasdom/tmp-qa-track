@@ -5,23 +5,23 @@ type: challenge
 title: Explore Kubernetes v1 from vc
 teaser: Explore Kubernetes
 notes:
-  - type: text
-    contents: |-
-      This track shows a multi-node Kubernetes cluster with one server
-      and two worker nodes.
+- type: text
+  contents: |-
+    This track shows a multi-node Kubernetes cluster with one server
+    and two worker nodes.
 
-      Please wait while we provision the sandbox.
+    Please wait while we provision the sandbox.
 tabs:
-  - id: uzx8mjowla0k
-    title: Server
-    type: terminal
-    hostname: server
-  - id: fmoxiy5e1mb1
-    title: Kubernetes Dashboard
-    type: service
-    hostname: server
-    path: /api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#!/
-    port: 8001
+- id: uzx8mjowla0k
+  title: Server
+  type: terminal
+  hostname: server
+- id: fmoxiy5e1mb1
+  title: Kubernetes Dashboard
+  type: service
+  hostname: server
+  path: /api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#!/
+  port: 8001
 difficulty: basic
 timelimit: 500
 lab_config:
