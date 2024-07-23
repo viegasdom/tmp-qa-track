@@ -1,7 +1,7 @@
 slug: kubernetes-cluster-vc-test
 id: oepiymtypwff
 revision: 1
-title: Multi-node Kubernetes cluster Copy
+title: Multi-node Kubernetes cluster commit from VC
 teaser: Setup a Kubernetes cluster on multiple sandbox hosts
 description: |-
   Setup a Kubernetes cluster on multiple sandbox hosts. You need multiple
@@ -16,7 +16,7 @@ icon: https://cdn.instruqt.com/assets/templates/kubernetes.png
 tags: []
 owner: acme
 developers:
-- bruno@instruqt.com
+  - bruno@instruqt.com
 instructors: []
 maintenance: true
 show_timer: true
