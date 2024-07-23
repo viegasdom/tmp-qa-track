@@ -16,7 +16,6 @@ tabs:
   title: Server
   type: terminal
   hostname: server
-  path: '?'
 - id: fmoxiy5e1mb1
   title: Kubernetes Dashboard
   type: service
